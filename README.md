@@ -1,6 +1,6 @@
 # Psychology Platform
 
-A full-stack web application built with Django, React, and PostgreSQL. This platform connects therapists with clients, allowing for appointment scheduling, content sharing, and secure payments.
+A full-stack web application built with Django, React, and PostgreSQL. This platform connects therapists with clients, allowing for appointment scheduling, content sharing, and secure payments .
 
 ## 🚀 Tech Stack
 
